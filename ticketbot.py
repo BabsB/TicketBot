@@ -75,28 +75,5 @@ while not Tickets:
 
 
 
-        # # continue
-        # Continue = browser.find_element_by_class_name("e1dvqv261")
-        # # WebDriverWait(browser, 10).until(
-        # #     EC.presence_of_element_located((By.CLASS_NAME,
-        # #                                     "e1dvqv261")))
-        #
-        #
-        # Continue.click()
-        # print('continued')
-        # time.sleep(1)
-        #
-        # nogEenDoor =  WebDriverWait(browser, 10).until(
-        #     EC.presence_of_element_located((By.CLASS_NAME,
-        #                                     "e1dvqv261")))
-        #
-        # nogEenDoor.click()
-        # time.sleep(1)
-        #
-        # dropdown = WebDriverWait(browser, 10).until(
-        #     EC.presence_of_element_located((By.CLASS_NAME,
-        #                                     "e12oj0bf10")))
-        # dropdown.click()
-        # print('dropdown succesful')
 
 
